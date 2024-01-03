@@ -6,7 +6,9 @@
 
 
 
-
+``` javascript
+var myVar = "Hello, and welcome to my markdown!";
+```
 
 
 
